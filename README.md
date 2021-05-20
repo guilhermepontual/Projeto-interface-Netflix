@@ -1,7 +1,9 @@
 # Projeto-interface-Netflix
 
 Projeto interface Netflix consiste no Front-End, onde se tem as séries para você assitir através do carrossel.
-Desafio do bootcamp HTML Web Developer da Digital Innovation One.
+Desafio do bootcamp HTML Web Developer da Digital Innovation One. 📺📼
+
+Ambiente desenvolvido 👉: https://reverent-brattain-a72782.netlify.app/
 
 
 
